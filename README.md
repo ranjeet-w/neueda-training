@@ -14,3 +14,5 @@ hi
 git clone https://github.com/ranjeet-w/neueda-training.git
 
 cd neueda-training
+```
+Thank you!
